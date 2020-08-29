@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="splitTableViewCellIdentifier" rowHeight="257" id="KGk-i7-Jjw" customClass="eCommerceSplitTableViewCell" customModule="eCommerce_Sample" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="544" height="257"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="544" height="256.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CVW-0X-6EC">
+                        <rect key="frame" x="0.0" y="0.0" width="544" height="256.5"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Apple_logo_black.svg_" translatesAutoresizingMaskIntoConstraints="NO" id="QRH-Uo-a0T">
+                                <rect key="frame" x="8" y="8" width="240" height="240.5"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Apple_logo_black.svg_" translatesAutoresizingMaskIntoConstraints="NO" id="gVz-Ds-URY">
+                                <rect key="frame" x="296" y="8" width="240" height="240.5"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="leading" secondItem="CVW-0X-6EC" secondAttribute="leadingMargin" id="4ij-th-Eut"/>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="top" secondItem="CVW-0X-6EC" secondAttribute="top" constant="8" id="BOT-gn-eYj"/>
+                            <constraint firstAttribute="bottom" secondItem="gVz-Ds-URY" secondAttribute="bottom" constant="8" id="DEx-7U-6XE"/>
+                            <constraint firstAttribute="bottom" secondItem="QRH-Uo-a0T" secondAttribute="bottom" constant="8" id="Mwn-Iu-SDa"/>
+                            <constraint firstAttribute="height" constant="256.5" id="XYn-jQ-v2E"/>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="top" secondItem="gVz-Ds-URY" secondAttribute="top" id="XZM-KD-L93"/>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="width" secondItem="gVz-Ds-URY" secondAttribute="width" id="hjJ-1A-rtU"/>
+                            <constraint firstItem="gVz-Ds-URY" firstAttribute="trailing" secondItem="CVW-0X-6EC" secondAttribute="trailingMargin" id="mWE-Bm-jq1"/>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="centerY" secondItem="CVW-0X-6EC" secondAttribute="centerY" id="sfy-sv-0PW"/>
+                            <constraint firstItem="gVz-Ds-URY" firstAttribute="leading" secondItem="QRH-Uo-a0T" secondAttribute="trailing" constant="48" id="zhR-4z-zQs"/>
+                            <constraint firstItem="QRH-Uo-a0T" firstAttribute="height" secondItem="gVz-Ds-URY" secondAttribute="height" id="zzi-t6-EnV"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="CVW-0X-6EC" secondAttribute="trailing" id="2cO-L8-9xY"/>
+                    <constraint firstAttribute="bottom" secondItem="CVW-0X-6EC" secondAttribute="bottom" id="712-Ty-YtF"/>
+                    <constraint firstItem="CVW-0X-6EC" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="9c7-C1-J6j"/>
+                    <constraint firstItem="CVW-0X-6EC" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="V54-1Q-qcW"/>
+                    <constraint firstItem="CVW-0X-6EC" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="Vpn-hV-bs5"/>
+                    <constraint firstItem="CVW-0X-6EC" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="dvt-ob-UfF"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="firstImageView" destination="QRH-Uo-a0T" id="tAO-tl-cKi"/>
+                <outlet property="sampleBackgroundView" destination="CVW-0X-6EC" id="pmw-vM-ht0"/>
+                <outlet property="secondImageView" destination="gVz-Ds-URY" id="CJE-5H-fR6"/>
+            </connections>
+            <point key="canvasLocation" x="197.10144927536234" y="106.13839285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="Apple_logo_black.svg_" width="120" height="120"/>
+    </resources>
+</document>

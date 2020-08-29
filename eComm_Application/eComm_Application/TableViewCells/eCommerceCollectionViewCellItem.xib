@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="eCommerceCollectionCellIdentifierItem" id="gTV-IL-0wX" customClass="eCommerceCollectionViewCellItem" customModule="eComm_Application" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="144" height="241"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="144" height="241"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rFc-Dl-Z5d">
+                        <rect key="frame" x="0.0" y="0.0" width="144" height="241"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Apple_logo_black.svg_" translatesAutoresizingMaskIntoConstraints="NO" id="RqF-6e-dzE">
+                                <rect key="frame" x="10" y="8" width="124" height="124"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="124" id="A5G-JL-1gv"/>
+                                    <constraint firstAttribute="width" constant="124" id="Rs4-el-YLs"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="Alcatel Go Watch Black &amp; Dark Red Smartwatch" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ftD-Tm-HZG">
+                                <rect key="frame" x="8" y="140" width="128" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="1000" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LVz-xS-lUd">
+                                <rect key="frame" x="8" y="184" width="128" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mens" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="t5S-Zf-Ze4">
+                                <rect key="frame" x="8" y="213" width="128" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="t5S-Zf-Ze4" firstAttribute="top" secondItem="LVz-xS-lUd" secondAttribute="bottom" constant="8" id="12J-Ml-8En"/>
+                            <constraint firstItem="RqF-6e-dzE" firstAttribute="top" secondItem="rFc-Dl-Z5d" secondAttribute="top" constant="8" id="Kzb-Tt-Rc0"/>
+                            <constraint firstAttribute="width" constant="144" id="RQg-Em-MTo"/>
+                            <constraint firstItem="LVz-xS-lUd" firstAttribute="leading" secondItem="rFc-Dl-Z5d" secondAttribute="leading" constant="8" id="Rq7-8R-t8m"/>
+                            <constraint firstItem="LVz-xS-lUd" firstAttribute="top" secondItem="ftD-Tm-HZG" secondAttribute="bottom" constant="8" id="SE8-UP-0aH"/>
+                            <constraint firstItem="ftD-Tm-HZG" firstAttribute="leading" secondItem="rFc-Dl-Z5d" secondAttribute="leading" constant="8" id="XBJ-6U-DHa"/>
+                            <constraint firstItem="ftD-Tm-HZG" firstAttribute="top" secondItem="RqF-6e-dzE" secondAttribute="bottom" constant="8" id="fsU-58-bp7"/>
+                            <constraint firstItem="t5S-Zf-Ze4" firstAttribute="leading" secondItem="rFc-Dl-Z5d" secondAttribute="leading" constant="8" id="om1-3d-Eaz"/>
+                            <constraint firstAttribute="trailing" secondItem="LVz-xS-lUd" secondAttribute="trailing" constant="8" id="pCn-of-DzN"/>
+                            <constraint firstAttribute="bottom" secondItem="t5S-Zf-Ze4" secondAttribute="bottom" constant="7" id="pg0-eK-7xt"/>
+                            <constraint firstAttribute="trailing" secondItem="t5S-Zf-Ze4" secondAttribute="trailing" constant="8" id="qLS-cq-Ax4"/>
+                            <constraint firstAttribute="trailing" secondItem="ftD-Tm-HZG" secondAttribute="trailing" constant="8" id="qLb-9j-JLL"/>
+                            <constraint firstAttribute="height" constant="241" id="rxL-MJ-IBb"/>
+                            <constraint firstItem="RqF-6e-dzE" firstAttribute="centerX" secondItem="ftD-Tm-HZG" secondAttribute="centerX" id="z0h-iM-idY"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="rFc-Dl-Z5d" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="1zc-V1-D7Y"/>
+                <constraint firstAttribute="bottom" secondItem="rFc-Dl-Z5d" secondAttribute="bottom" id="6T2-Yw-VOu"/>
+                <constraint firstItem="rFc-Dl-Z5d" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="Q0j-QY-NDx"/>
+                <constraint firstAttribute="trailing" secondItem="rFc-Dl-Z5d" secondAttribute="trailing" id="aGD-47-cSz"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="144" height="241"/>
+            <connections>
+                <outlet property="imageViewCell" destination="RqF-6e-dzE" id="0Q3-zo-p2L"/>
+                <outlet property="nameLabel" destination="ftD-Tm-HZG" id="JZA-MW-895"/>
+                <outlet property="priceLabel" destination="LVz-xS-lUd" id="ukR-hV-FvQ"/>
+                <outlet property="typeLabel" destination="t5S-Zf-Ze4" id="M27-BG-krh"/>
+            </connections>
+            <point key="canvasLocation" x="-14.492753623188406" y="23.772321428571427"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Apple_logo_black.svg_" width="120" height="120"/>
+    </resources>
+</document>

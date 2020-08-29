@@ -1,0 +1,236 @@
+{
+   "code": "200",
+   "content": [
+      {
+         "sectionType": "horizontalFreeScroll",
+         "name": "Watches",
+         "products": [
+            {
+               "name": "Alcatel Go Watch Black & Dark Red Smartwatch",
+               "price": "10000",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/S/M/SMWEGZ4RGQUDD2CN.jpeg",
+               "type": "Mens"
+            },
+            {
+               "name": "AMST 3003 Branded Military Sports Chronograph Watch with Leather Strap For Men",
+               "price": "2000",
+               "type": "Sports",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/B/0/B01G6QRKN6.jpg"
+            },
+            {
+               "name": "Apple Watch 38Mm Rose Gold Sport Al",
+               "price": "3000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/B/0/B016F8WT2C.jpg"
+            },
+            {
+               "name": "Apple Watch Sport 38 mm Gold Aluminium Case with Sport Band Antique White Smartwatch",
+               "price": "2000",
+               "type": "Sports",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/S/M/SMWEDFVHXMHFG3HD.jpeg"
+            },
+            {
+               "name": "Alcatel Go Watch Black & Dark Red Smartwatch",
+               "price": "10000",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/S/M/SMWEGZ4RGQUDD2CN.jpeg",
+               "type": "Mens"
+            },
+            {
+               "name": "AMST 3003 Branded Military Sports Chronograph Watch with Leather Strap For Men",
+               "price": "2000",
+               "type": "Sports",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/B/0/B01G6QRKN6.jpg"
+            }
+         ]
+      },
+      {
+         "sectionType": "horizontalFreeScroll",
+         "name": "Tablets",
+         "products": [
+            {
+               "name": "Apple iPad Air 2 Wi-Fi + Cellular 128 GB Tablet",
+               "price": "49000",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/T/A/TABEFXTYFRFA3YAB.jpeg",
+               "type": "Mens"
+            },
+            {
+               "name": "MiPad",
+               "price": "13000",
+               "type": "View",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/T/A/TABE57MQE3G4PFXN_1.jpeg"
+            },
+            {
+               "name": "Apple Watch 38Mm Rose Gold Sport Al",
+               "price": "3000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/B/0/B016F8WT2C.jpg"
+            }
+         ]
+      },
+      {
+         "sectionType": "horizontalFreeScroll",
+         "name": "LapTop & Speakers",
+         "products": [
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            }
+         ]
+      },
+      {
+         "sectionType": "horizontalFreeScroll",
+         "name": "LapTop & Speakers",
+         "products": [
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            },
+            {
+               "name": "Apple Macbook Pro MD101HN/A 13-inch Laptop (Core i5/4GB/500GB/Mac OS Mavericks/Intel HD Graphics), Silver",
+               "price": "59239",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/3/0/3001a.jpeg",
+               "type": "UniSex"
+            },
+            {
+               "name": "Asus Core i3 6th Gen ",
+               "price": "23999",
+               "type": "View",
+               "imageURL": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+            },
+            {
+               "name": "Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 5567 Notebook  (15.6 inch, Black, 2.36 kg)",
+               "price": "34000",
+               "type": "UniSex",
+               "imageURL": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+            }
+         ]
+      },
+      {
+         "sectionType": "banner",
+         "bannerImage": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70"
+      },
+      {
+         "sectionType": "splitBanner",
+         "firstImage": "https://rukminim1.flixcart.com/image/832/832/jkcwakw0/computer/u/8/s/asus-na-laptop-original-imaewf4fuzgphgc3.jpeg?q=70",
+         "secondImage": "https://s3-ap-southeast-1.amazonaws.com/media.buynsta.com/catalog/product/d/e/dell.jpeg"
+      }
+   ]
+}
